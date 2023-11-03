@@ -1,0 +1,12 @@
+.texto-card
+{
+    color: black;
+    font-size: 12;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tamanho-imagem-padrao
+{
+    width: 100px;
+    height: 100px;
+}
